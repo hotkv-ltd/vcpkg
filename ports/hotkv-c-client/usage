@@ -1,0 +1,8 @@
+hotkv-c-client provides CMake targets:
+
+    find_package(hotkv CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE hotkv::hotkv)
+
+and a pkg-config file:
+
+    pkg-config --cflags --libs libhotkv

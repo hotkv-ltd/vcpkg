@@ -3892,6 +3892,10 @@
       "baseline": "0.9.0",
       "port-version": 0
     },
+    "hotkv-c-client": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "hps": {
       "baseline": "2022-01-18",
       "port-version": 0
